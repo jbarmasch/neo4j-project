@@ -1,0 +1,16 @@
+# Neo4j configuration
+NEO4J_URI = "bolt://localhost:7687"
+NEO4J_USER = "neo4j"
+NEO4J_PASSWORD = "password"  # Replace with your Neo4j password
+
+# OMDb API keys
+OMDB_API_KEYS = [
+    "apikey1",  # Replace with your first API key
+    "apikey2",  # Replace with your second API key
+    "apikey3",  # Replace with your third API key
+    "apikey4",  # Replace with your fourth API key
+    "apikey5",  # Replace with your fifth API key
+]
+
+# JSON file to store the ratings
+IMDB_RATINGS_JSON = "imdb_ratings.json"

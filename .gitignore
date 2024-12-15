@@ -1,0 +1,7 @@
+# python files
+__pycache__/
+env/
+
+config.py
+
+imdb_ratings.json
